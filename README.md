@@ -6,7 +6,7 @@ Once the game server is ready, players are automatically transferred into the ga
 If you use this for your project please credit me!
 Created by [Cynx](https://github.com/cynnnxxx)
 
-Please Start The Repo!
+Please Star The Repo!
 
 Versions that i tested!
 
